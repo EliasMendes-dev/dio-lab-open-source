@@ -57,12 +57,8 @@ Tenho uma visão ampla da tecnologia, desde a estrutura que sustenta os sistemas
 ## Estatísticas do GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EliasMendes-dev&show_icons=true&theme=radical&locale=pt-br"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliasMendes-dev&layout=compact&theme=radical&locale=pt-br"/>
-</p>
-
-<p align="center">
-  <img height="180em" src="https://streak-stats.demolab.com?user=EliasMendes-dev&theme=radical&locale=pt-br"/>
+  <img height="180em" src="https://github-readme-stats-gamma-ten-50.vercel.app/api?username=EliasMendes-dev&show_icons=true&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats-gamma-ten-50.vercel.app/api/top-langs/?username=EliasMendes-dev&layout=compact&theme=radical"/>
 </p>
 
 ---
